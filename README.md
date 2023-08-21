@@ -3,8 +3,9 @@
 ## ***About me***
 
 I am a recent astrophyics graduate from University of Cambridge. I have been pursuing a career in software engineering and am always looking for new opportunities to tackle challenging problems. I have a passion for breaking down seemingly impossible problems into doable chunks and piecing them together for elegant solutions.
-- I’m currently learning ...
+- I’m currently developing in ...
   - C++
+  - Dart
 - I am looking forward to contribute into related open source projects
 - Aside from coding, you can find me writing papers on applying math to every day dilemmas, reading novels in japanese, playing chess, golfing, and weightlifting.
 
