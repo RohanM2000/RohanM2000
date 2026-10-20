@@ -2,5 +2,10 @@
 
 ## ***About me***
 
-I am a recent astrophysics graduate from University of Cambridge. I am always looking for new opportunities to tackle challenging problems. I have a passion for breaking down seemingly impossible problems into doable chunks and piecing them together for elegant solutions. Aside from coding, you can find me writing papers on applying math to every day dilemmas, reading novels in japanese, playing chess, golfing, and weightlifting.
+Software engineer with a background in astrophysics and mathematics from the University of Cambridge.
 
+Interested in AI, difficult problems, and elegant solutions. I want to help make AI more accessible while ensuring that capability advances alongside safety, evaluation, and reliability.
+
+I enjoy bridging theory and practice: taking ideas apart, understanding how they work, and building something useful from them.
+
+Outside of code: mathematics, Japanese literature, and weightlifting.
